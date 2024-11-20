@@ -82,6 +82,7 @@ st.markdown('<p style="color:#006064;">This app uses a machine learning model to
 
 st.header('Instructions:')
 st.markdown("""
+
 1. Enter the email content in the text area below.
 2. Click the **Predict** button to analyze the email.
 3. The result will be displayed below.
